@@ -3,12 +3,12 @@
 1. Idea
 - [ ] Software requisites
 
-1. Prototyping
+2. Prototyping
 - [ ] User's journey
 - [ ] User's interface
 - [ ] Entity relationship diagram
 
-1. Techs
+3. Techs
 - [ ] Project's architecture
 - [ ] Workflow
 - [ ] Services list
